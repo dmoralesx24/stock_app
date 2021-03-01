@@ -1,0 +1,15 @@
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/davidmorales/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/davidmorales/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210228-62615-10lpjur.rb extconf.rb
+creating Makefile
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/bootsnap-1.7.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210228-62615-15r1l5i/bootsnap

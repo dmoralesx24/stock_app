@@ -1,0 +1,19 @@
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/byebug-11.1.3/ext/byebug
+/Users/davidmorales/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/davidmorales/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210228-62615-wzhdqz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/davidmorales/Desktop/ruby_course/stock_app/vendor/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20210228-62615-ej4hoo/byebug
